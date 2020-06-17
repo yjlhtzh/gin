@@ -1,4 +1,4 @@
-module github.com/gin-gonic/gin
+module github.com/yjlhtzh/gin
 
 go 1.13
 
